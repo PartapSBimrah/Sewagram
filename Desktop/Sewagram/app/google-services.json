@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "63561404176",
+    "firebase_url": "https://sewagramapp15.firebaseio.com",
+    "project_id": "sewagramapp15",
+    "storage_bucket": "sewagramapp15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63561404176:android:07f74f4e435c0941",
+        "android_client_info": {
+          "package_name": "com.sewagram.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63561404176-6jo9a6skaqqcrom4jhslakl2ao47of6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoZBXe_V5IZKNnE0U-wxbED5kv_f7WPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
